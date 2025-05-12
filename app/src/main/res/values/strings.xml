@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="max_length_label">Max Length</string>
+    <string name="generate_button">Generate</string>
+    <string name="clear_all_button">Clear All</string>
+    <string name="delete_button">Delete</string>
+</resources>

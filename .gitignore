@@ -1,0 +1,54 @@
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio and IntelliJ IDEA
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+*.apk
+*.ap_
+*.db
+
+# Android Specific
+captures/
+*.log
+*.hprof
+*.orig
+*.swp
+*.bak
+*.swo
+.DS_Store
+
+# Android NDK
+obj/
+bin/
+out/
+*.o
+
+# Files for Gradle caching
+.gradle/
+
+# Kotlin files
+*.kotlin_module
+*.kotlin_builtins
+
+# Android Studio specific
+.idea/
+
+# Firebase Crashlytics mapping files
+crashlytics-build.properties
+
+# JetBrains IDEs
+.idea/
