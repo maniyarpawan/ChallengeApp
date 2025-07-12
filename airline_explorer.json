@@ -1,4 +1,7 @@
-[
+{
+	"success": true,
+	"data" :
+	[
 	{
 		"id": "1",
 		"name": "EasyJet",
@@ -63,3 +66,4 @@
 		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Delta_Air_Lines_Logo.svg/2560px-Delta_Air_Lines_Logo.svg.png"
 	}
 ]
+}
